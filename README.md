@@ -1,6 +1,6 @@
 Clone Login Page Pluralsight. Responsive design
 
 
-![Screenshot](login_logo.png)
+![Screenshot](clone_prural.png)
 
 ![Screenshot](progressive.png)
