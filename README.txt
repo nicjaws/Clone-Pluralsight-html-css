@@ -1,3 +1,4 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/nicjaws/pen/vQGZJW.
+Clone Login Page Pluralsight
 
+![Screenshot](login_logo.png)
  
